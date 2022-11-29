@@ -1,0 +1,28 @@
+.nav{
+    background-color: #F55A5A;
+    height: 55px;
+    width: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-logo{
+    height: 24px;
+    width: 24px;
+    left: 213px;
+    top: 16px;
+    border-radius: 0px;
+    padding-right: 7px;
+}
+
+.nav-name{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+    text-align: left;
+    color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+
+}
